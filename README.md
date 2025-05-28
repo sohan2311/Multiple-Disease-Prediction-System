@@ -1,7 +1,7 @@
 
 # Multiple Disease Prediction System
 
-![Health Assistant](https://img.icons8.com/ios-filled/50/000000/medical-doctor.png)
+🧑🏻‍⚕️
 
 A **Streamlit** web app for predicting **Diabetes**, **Heart Disease**, and **Parkinson's Disease** using machine learning models.  
 This tool allows users to input medical parameters and receive disease prediction results instantly.
