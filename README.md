@@ -2,7 +2,7 @@
 # Multiple Disease Prediction System
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/4333/4333609.png" alt="Doctor Icon" width="150" />
+  <img src="Vital Image Analysis.png" alt="Doctor Icon" width="150" />
 </p>
 
 A **Streamlit** web app for predicting **Diabetes**, **Heart Disease**, and **Parkinson's Disease** using machine learning models.  
