@@ -45,13 +45,18 @@ Here are the datasets used for training the models (publicly available):
 ```
 
 .
-├── multiple\_disease\_pred.py        # Main Streamlit app script
+├── multiple_disease_pred.py        # Main Streamlit app script
 ├── saved models/
-│   ├── diabetes\_model.sav          # Pickled diabetes prediction model
-│   ├── heart\_disease\_model.sav     # Pickled heart disease prediction model
-│   └── parkinsons\_model.sav        # Pickled Parkinson's disease prediction model
+│   ├── diabetes_model.sav          # Pickled diabetes prediction model
+│   ├── heart_disease_model.sav     # Pickled heart disease prediction model
+│   └── parkinsons_model.sav        # Pickled Parkinson's disease prediction model
+├── notebooks/                      # Folder containing Jupyter notebooks
+│   ├── Multiple disease prediction system - diabetes.ipynb
+│   ├── Multiple disease prediction system - heart.ipynb
+│   └── Multiple disease prediction system - Parkinsons.ipynb
 ├── README.md                       # This documentation file
 └── requirements.txt                # Python dependencies file
+
 
 ````
 
