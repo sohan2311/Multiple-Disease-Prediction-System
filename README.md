@@ -1,7 +1,9 @@
 
 # Multiple Disease Prediction System
 
-🧑🏻‍⚕️
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/2965/2965478.png" alt="Doctor Icon" width="150" />
+</p>
 
 A **Streamlit** web app for predicting **Diabetes**, **Heart Disease**, and **Parkinson's Disease** using machine learning models.  
 This tool allows users to input medical parameters and receive disease prediction results instantly.
